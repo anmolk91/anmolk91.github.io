@@ -1,0 +1,40 @@
+.header-bg {
+    background: rgb(70, 78, 92);
+    color: white;
+    -webkit-print-color-adjust: exact;
+}
+
+.hg-color {
+    color: #dddee0;
+    -webkit-print-color-adjust: exact;
+}
+
+.rs-desc {
+    color: #828282;
+    -webkit-print-color-adjust: exact;
+}
+
+.design-header {
+    color:#909aab
+}
+
+.rs-desc-bg {
+    background-color: #f4f4f5;
+    -webkit-print-color-adjust: exact;
+}
+
+.fs-14 {
+    font-size: 0.9em
+}
+
+.fs-12 {
+    font-size: 1.2em
+}
+
+.lh-30 {
+    line-height: 30px
+}
+
+.exp-header {
+    height: 30px;
+}
